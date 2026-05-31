@@ -1,0 +1,4 @@
+[INFO ] 2026-05-31 16:18:57 [main]  RestAssuredFramework - Create user accounts
+[INFO ] 2026-05-31 16:19:04 [main]  RestAssuredFramework - Get all users
+[INFO ] 2026-05-31 16:19:11 [main]  RestAssuredFramework - Update user
+[INFO ] 2026-05-31 16:19:20 [main]  RestAssuredFramework - Delete user
